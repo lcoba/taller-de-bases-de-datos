@@ -1,3 +1,8 @@
+-- Comando para usar la base de datos AdventureWorks2022
+-- Ejecuta este codigo primero
+-- Recibiras este mensaje Commands completed successfully.
+USE AdventureWorks2022
+
 -- Crea o modifica la vista Person.vwNombresDirecciones 
 -- Basado en el query join que esta despues del AS 
 CREATE OR ALTER VIEW Person.vwNombresDirecciones AS
