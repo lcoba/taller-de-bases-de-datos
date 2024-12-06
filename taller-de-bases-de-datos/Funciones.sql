@@ -1,1 +1,2 @@
--- AQUi van las funciones
+-- Aqui van las funciones
+-- Poner mas funciones que nos van
